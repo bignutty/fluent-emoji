@@ -15,4 +15,7 @@ for use with discord
 .emojiSpriteImage-3ykvhZ[style*='background-image: url("/assets/8cadc8badb226d9b5da5efbb060c9331.png")'] {
 	background-image: url("https://cdn.discordapp.com/attachments/844876269916651520/1003321169753145374/sheet_color-96.png") !important;
 }
+.sprite-2lxwfc {
+	background-image: url("https://cdn.discordapp.com/attachments/844876269916651520/1003673626760974386/sheet-44_picker.png") !important;
+}
 ```
