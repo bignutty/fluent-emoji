@@ -1,6 +1,8 @@
 # fluent-emoji
 big emoji for 3d fluent emoji connoisseurs
 
-you can find all (available) emoji in the `/emoji/` directory. all emoji that are available as an animated form will be saved in the apng format, if you want the non-animated version extract the first frame.
-
-all images are `256x256`
+## Directories
+- `/animated-static/` apng images, animated where possible, the rest use png. [`256x256`]
+- `/emoji/` apng images, animated [`256x256`]
+- `/static/` png images [`256x256`]
+- `/vector/` svg images [`vector, 32x32 by default`]
