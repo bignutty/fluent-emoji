@@ -1,5 +1,6 @@
-# fluent-emoji
-big emoji for 3d fluent emoji connoisseurs, sourced from [microsofts open source repository](https://github.com/microsoft/fluentui-emoji/) as well as [emojipedia](https://emojipedia.org/microsoft-teams/).
+![Fluent Emoji](art/fluent-header-export.png)
+
+A collection of (nearly) all fluent emoji, sourced from [microsofts open source repository](https://github.com/microsoft/fluentui-emoji/) as well as [emojipedia](https://emojipedia.org/microsoft-teams/).
 
 ## Directories
 - `/animated/` apng images, animated [`256x256`]
